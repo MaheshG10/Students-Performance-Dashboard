@@ -21,5 +21,7 @@ An interactive Looker Studio dashboard analyzing student performance across fact
 - Sleep vs. total score line chart.
 - Study hours by gender and grade stacked bar chart.
 
+## Dashboard
+[📄 View Project Report](dashboard.pdf)
 ## 🔗 Live Dashboard
 [View in Looker Studio](https://lookerstudio.google.com/reporting/cce80070-d946-4211-afba-47d54d753ef7)
