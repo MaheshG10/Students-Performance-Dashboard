@@ -22,6 +22,7 @@ An interactive Looker Studio dashboard analyzing student performance across fact
 - Study hours by gender and grade stacked bar chart.
 
 ## Dashboard
-Dashboard.pdf
+<img width="1126" height="841" alt="image" src="https://github.com/user-attachments/assets/b79d4fac-31a8-4ff4-80fc-c4042b0be600" />
+
 ## 🔗 Live Dashboard
 [View in Looker Studio](https://lookerstudio.google.com/reporting/cce80070-d946-4211-afba-47d54d753ef7)
